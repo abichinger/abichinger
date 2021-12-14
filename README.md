@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 -->
 
 
-[![abichinger's GitHub stats](https://github-readme-stats.vercel.app/api?username=abichinger&theme=dark&count_private=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+[![abichinger's GitHub stats](https://github-readme-stats.vercel.app/api?username=abichinger&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abichinger&theme=dark&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
